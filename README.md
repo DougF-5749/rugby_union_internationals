@@ -6,13 +6,14 @@ This is an **ongoing project** that is part of my learning journey in Python for
 
 Right now, I’m focusing on:
 
- - Importing and modifying CSV files 📂
- - Cleaning and analyzing data using pandas 🧼🔍
+ - **Importing** and **modifying** CSV files 📂
+ - **Cleaning** and **analysing** data using pandas and NumPy 🧼🔍
 
-Later, I’ll add data visualizations using Seaborn and Matplotlib after completing the Data Visualization course on Codecademy. 📊
+Later, I’ll add data visualisations using Seaborn and Matplotlib after completing the Data Visualisation course on Codecademy. 📊
 
 ## 📂 Project Structure
 
+```markdown
 📁 my_data_project/
 │
 ├── 📁 data/                  # Where I will store my CSV files
@@ -24,28 +25,29 @@ Later, I’ll add data visualizations using Seaborn and Matplotlib after complet
 │
 ├── 📁 scripts/               # Where I will create and store Python scripts for reusable functions
 │   ├── data_load.py          # Scripts to load and clean data
-│   ├── analyze_data.py       # Scripts to analyze & summarize data
+│   ├── analyse_data.py       # Scripts to analyse & summarise data
 │
 ├── 📁 reports/               # Where I will save any exported charts or summaries
 │   ├── summary.txt
 │   ├── charts.png
 │
-├── .gitignore                # Ignore unnecessary files
-├── requirements.txt          # Dependencies for the project
-├── README.md                 # 👋 You are reading me right now! 👋
+├── .gitignore                
+├── requirements.txt          
+├── README.md                 👋 You are reading me right now! 👋
+```
 
 ## 🚀 Getting Started
 
 ### **1️⃣ Install Required Packages** 
 
-  You need Python and the following libraries:
+You need Python and the following libraries:
 
 ```bash
-  pip install pandas jupyter matplotlib seaborn
+  pip install pandas NumPy jupyter matplotlib seaborn
 ```
 ### **2️⃣ Open the Jupyter Notebook**
 
-  Open the notebooks/ folder and start exploring the data!
+Open the notebooks/ folder and start exploring the data!
 
 ## 🛠 Features I am currently working on...
 
@@ -55,14 +57,17 @@ Later, I’ll add data visualizations using Seaborn and Matplotlib after complet
 
 ## 🔜 Coming Soon:
 
-- Data visualizations using Matplotlib & Seaborn
+- Data visualisations using Matplotlib & Seaborn
 - Insights from real-world datasets
 
 ## 📌 Learning Resources
 
 [Python for Data Science – Codecademy](https://www.codecademy.com/learn/getting-started-with-python-for-data-science)
+
 [Pandas Documentation](https://pandas.pydata.org/docs/)
+
 [Matplotlib Documentation](https://matplotlib.org/stable/index.html) _(not used yet)_
+
 [Seaborn Documentation](https://matplotlib.org/stable/index.html) _(not used yet)_
 
 ## 🤝 Contributing
