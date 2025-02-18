@@ -9,7 +9,14 @@ Right now, I’m focusing on:
  - **Importing** and **modifying** CSV files 📂
  - **Cleaning** and **analysing** data using pandas and NumPy 🧼🔍
 
-Later, I’ll add data visualisations using Seaborn and Matplotlib after completing the Data Visualisation course on Codecademy. 📊
+Later, I’ll add data visualisations using Seaborn and Matplotlib after completing the Data Visualisation 📊 course on Codecademy.
+
+## 🎯 Possible project questions
+1. Which team has won the most matches since records began? Does the same team have the highest win rate?
+2. Which team(s) have the highest home/away/neutral win rates?
+3. Which teams have the highest points differential across time?
+4. What are the average number of points scores per game for each stadium?
+5. How do different teams' win rates change over time and which is the most improved team?
 
 ## 📂 Project Structure
 
