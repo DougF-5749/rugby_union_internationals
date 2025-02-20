@@ -71,18 +71,17 @@ There are several key limitations to this approach, but I will discuss those mor
 ```markdown
 📁 my_data_project/
 │
-├── 📁 data/                  # Where I will store my CSV files
+├── 📁 data/                    # Where I will store my CSV files
 │   ├── results.csv
 │
-├── 📁 notebooks/             # Where I will store my Jupyter notebooks for analysis
+├── 📁 notebooks/               # Where I will store my Jupyter notebooks for analysis
 │   ├── data_cleaning.ipynb
 │   ├── data_analysis.ipynb
 │
-├── 📁 scripts/               # Where I will create and store Python scripts for reusable functions
-│   ├── data_load.py          # Scripts to load and clean data
-│   ├── analyse_data.py       # Scripts to analyse & summarise data
+├── 📁 scripts/                 # Where I will create and store Python scripts for reusable functions
+│   ├── example_scriptfile.py   # Scripts to analyse/summarise/format data
 │
-├── 📁 reports/               # Where I will save any exported charts or summaries
+├── 📁 reports/                 # Where I will save any exported charts or summaries
 │   ├── summary.txt
 │   ├── charts.png
 │
