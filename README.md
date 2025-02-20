@@ -57,7 +57,7 @@ My initial thoughts were to split the data into different playing "eras" and com
 
 I have decided to analyse attacking trends over time using **total points per game** as an indicator of how attacking the game has become.
 
-There are several key limitations to this approach, but I will discuss those more in the project summary (and this project is just for fun so...why be so serious 🤷)
+There are **several key limitations to this approach**, but I will discuss those more in the project summary (and this project is just for fun so...why be so serious 🤷)
 
 ## 📂 Project Structure
 
