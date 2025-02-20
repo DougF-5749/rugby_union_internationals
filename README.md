@@ -96,16 +96,9 @@ You need Python and the following libraries:
 
 Open the notebooks/ folder and start exploring the data!
 
-## 🛠 Features I am currently working on...
-
-- Load and clean CSV files with pandas
-- Basic data analysis (mean, median, missing values, etc.)
-- Filtering and modifying datasets
-
 ## 🔜 Coming Soon:
 
 - Data visualisations using Matplotlib & Seaborn
-- Insights from real-world datasets
 
 ## 📌 Learning Resources
 
