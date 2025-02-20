@@ -59,13 +59,6 @@ I have decided to analyse attacking trends over time using **total points per ga
 
 There are several key limitations to this approach, but I will discuss those more in the project summary (and this project is just for fun so...why be so serious 🤷)
 
-### Other interesting questions:
-1. Which team has won the most matches since records began? Does the same team have the highest win rate?
-2. Which team(s) have the highest home/away/neutral win rates?
-3. Which teams have the highest points differential across time?
-4. What are the average number of points scores per game for each stadium?
-5. How do different teams' win rates change over time and which is the most improved team?
-
 ## 📂 Project Structure
 
 ```markdown
