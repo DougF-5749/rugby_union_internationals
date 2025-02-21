@@ -30,11 +30,11 @@ The mean margin of victory also gradually increased from near 0.4 in the late 18
 While higher-scoring matches can be more entertaining, a larger margin **might** indicate less balance between teams.
 
 ### Era-by-era:
- - 1905–1948: Notable because it combined an increase in total points with a dip in average score difference, suggesting some relatively competitive, higher-scoring games.
+ - **1905–1948:** Notable because it combined an increase in total points with a dip in average score difference, suggesting some relatively competitive, higher-scoring games.
 
- - 1971–1992 vs. 1992–2024: Both eras have similar margins (~4 points), but the modern era’s total points are much higher (~46 vs. ~32).
+ - **1971–1992 vs. 1992–2024:** Both eras have similar margins (~4 points), but the modern era’s total points are much higher (~46 vs. ~32).
 
- - Close but High-Scoring Games: A small percentage (under 2%) in the modern era combined very tight score margins (±4 points) and above-average scoring totals.
+ - **Close but High-Scoring Games:** A small percentage (under 2%) in the modern era combined very tight score margins (±4 points) and above-average scoring totals.
 
 ### Home vs away trends
  - Certain teams (e.g., New Zealand, South Africa) show consistently higher average score differences at home, highlighting their historical dominance on home soil.
