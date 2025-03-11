@@ -106,7 +106,7 @@ Open the notebooks/ folder and start exploring the data!
 
 [Pandas Documentation](https://pandas.pydata.org/docs/)
 
-[Matplotlib Documentation](https://matplotlib.org/stable/index.html) _(not used yet)_
+[Matplotlib Documentation](https://matplotlib.org/stable/index.html) _(currently using for ongoing learning)_
 
 [Seaborn Documentation](https://matplotlib.org/stable/index.html) _(not used yet)_
 
