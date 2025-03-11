@@ -108,7 +108,7 @@ Open the notebooks/ folder and start exploring the data!
 
 [Matplotlib Documentation](https://matplotlib.org/stable/index.html) _(currently using for ongoing learning)_
 
-[Seaborn Documentation](https://matplotlib.org/stable/index.html) _(not used yet)_
+[Seaborn Documentation](https://seaborn.pydata.org/) _(not used yet)_
 
 ## 🤝 Contributing
 
